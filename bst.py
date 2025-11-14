@@ -1,12 +1,3 @@
-'''
-Author: Abby-Marie Tong
-KUID: 3178667
-Date: 4/16/2025
-Lab: 8
-Last Modified: 4/18/2025
-Purpose: Creates a Binary Search Tree
-
-'''
 from binarynode import BinaryNode
 class BinarySearchTree:
     def __init__(self):

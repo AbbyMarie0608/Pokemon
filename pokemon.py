@@ -1,12 +1,3 @@
-'''
-Author: Abby-Marie Tong
-KUID: 3178667
-Date: 4/16/2025
-Lab: 8
-Last Modified: 4/22/2025
-Purpose: Creates a Pokemon Executive
-
-'''
 from bst import BinarySearchTree
 from pokeball import Pokeball
 

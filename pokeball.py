@@ -1,13 +1,3 @@
-'''
-Author: Abby-Marie Tong
-KUID: 3178667
-Date: 4/16/2025
-Lab: 8
-Last Modified: 4/18/2025
-Purpose: Creates a class that holds the pokemon's information
-
-'''
-
 class Pokeball:
     def __init__(self, name, number, jpn_name):
         '''Initializes all the information and packs it into a pokeball (basically)'''
